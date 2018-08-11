@@ -1,0 +1,3 @@
+Each file is released under the terms described in the file named LICENSE.txt in the corresponding subdirectory.
+If a subdirectory has no file named LICENSE.txt then assume that the files in that directory are proprietary and
+kindly report the missing LICENSE.txt file in an issue.
