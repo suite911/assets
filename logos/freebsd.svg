@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733333 67.733333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="freebsd1.svg">
+  <title id="title">FreeBSD</title>
+  <defs id="defs" />
+  <sodipodi:namedview
+     id="base"
+     inkscape:document-units="px"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     borderlayer="true" />
+  <metadata id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>FreeBSD</dc:title>
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>amy &lt;github.com/amyadzuki&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2018-08-21</dc:date>
+        <dc:description>FreeBSD logo</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer"
+     inkscape:groupmode="layer"
+     id="layer"
+     transform="translate(0,-229.26665)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.9748744;fill-rule:nonzero;stroke:none;stroke-width:7.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 128.00195,12 C 105.80175,12 85.051543,18.253331 67.412109,29.089844 53.960813,25.368781 24.877666,11.30924 15.050781,19.298828 5.8946409,29.879017 20.140764,65.460649 24.476562,75.664062 16.502255,91.391969 12.003906,109.17273 12.003906,127.99805 c 10e-7,64.01767 51.980394,116 115.998044,116 64.01765,0 116,-51.98233 116,-116 -1.16339,-24.10102 -6.48942,-43.936144 -18.32031,-62.503909 2.6828,-12.180902 15.05596,-40.343915 6.10938,-48.171875 -11.25646,-6.717713 -39.08175,4.240689 -49.10547,8.388672 C 166.01026,16.971173 144.28704,12.125609 128.00195,12 Z m 0,8.001953 c 17.12252,0.994884 31.60568,3.72742 45.375,9.984375 -7.87624,3.965211 -15.11027,8.583054 -20.54883,13.748047 -12.51561,27.454986 41.8954,67.810245 55.81446,54.072266 4.88867,-6.0621 9.40183,-14.236348 13.27539,-23.044922 9.16298,16.655241 13.95113,36.460231 14.08008,53.236331 0,59.69412 -48.30197,108.0039 -107.9961,108.0039 -59.694131,0 -108.003903,-48.30978 -108.003903,-108.0039 0,-59.694126 48.309772,-107.996097 108.003903,-107.996097 z m 98.45508,3.474606 c 2.02384,19.697766 -12.6352,53.604437 -23.22656,67.914063 -23.33054,0.366183 -45.07314,-21.262479 -43.67774,-42.660156 13.40624,-10.151761 49.92734,-28.973344 66.9043,-25.253907 z M 59.429688,34.464844 C 47.535009,43.20379 37.367744,54.153723 29.53125,66.708984 26.053939,54.830101 17.213124,37.28937 20.384766,25.455078 c 13.893306,-0.916296 27.279813,4.15293 39.044922,9.009766 z"
+       id="path"
+       transform="matrix(0.26458333,0,0,0.26458333,0,229.26665)"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsscccccccccccssccccccccc" />
+  </g>
+</svg>
