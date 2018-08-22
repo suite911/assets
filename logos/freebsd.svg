@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="freebsd1.svg">
+   sodipodi:docname="freebsd.svg">
   <title id="title">FreeBSD</title>
   <defs id="defs" />
   <sodipodi:namedview
@@ -31,7 +31,6 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>FreeBSD</dc:title>
-        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title>amy &lt;github.com/amyadzuki&gt;</dc:title>

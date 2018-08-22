@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733333 67.733333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="apple.svg">
+  <title id="title">Apple</title>
+  <defs id="defs" />
+  <sodipodi:namedview
+     id="base"
+     inkscape:document-units="px"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     borderlayer="true" />
+  <metadata id="metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Apple</dc:title>
+        <dc:date>2018-08-22</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>amy &lt;github.com/amyadzuki&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Apple logo</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer"
+     inkscape:groupmode="layer"
+     id="layer"
+     transform="translate(0,-229.26665)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.11666656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99497485"
+       d="m 34.717112,247.61739 c -4.442737,0.021 -10.217195,-3.50257 -13.833928,-2.55134 -26.832533,7.05719 -9.291251,47.40842 2.957663,47.27538 3.957371,-0.043 5.575508,-2.65123 11.018007,-2.53244 5.442498,0.11879 6.072772,2.71859 10.857366,2.67418 4.473656,-0.0415 11.446153,-9.56315 14.11741,-16.50811 -8.539432,-3.40828 -13.704473,-17.40251 -1.700893,-24.40781 -9.902638,-12.01442 -19.759271,-3.96711 -23.415625,-3.94986 z"
+       id="path"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ssszsccs" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.11666656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99497485"
+       d="m 33.01622,245.77476 c -1.978329,-8.21949 5.113839,-13.94523 11.849553,-15.0907 0.287582,9.24778 -5.967967,13.40805 -11.849553,15.0907 z"
+       id="leaf"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+  </g>
+</svg>
